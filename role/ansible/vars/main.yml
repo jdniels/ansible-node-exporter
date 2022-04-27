@@ -1,0 +1,3 @@
+---
+# vars file for roles/node-exporter
+ssh_key: ~/.ssh/<SSH_KEY.pub>

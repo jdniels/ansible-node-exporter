@@ -1,0 +1,6 @@
+all:
+  vars:
+    ansible_python_interpreter: /usr/bin/python3
+  hosts:
+    # Put your Ip Here 
+    # eg: 10.10.10.1:
